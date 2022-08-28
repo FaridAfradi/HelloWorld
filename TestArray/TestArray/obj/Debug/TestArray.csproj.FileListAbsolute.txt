@@ -1,0 +1,8 @@
+C:\Users\farid\Documents\GitHub\Farid Afradi\HelloWorld\TestArray\TestArray\bin\Debug\TestArray.exe.config
+C:\Users\farid\Documents\GitHub\Farid Afradi\HelloWorld\TestArray\TestArray\bin\Debug\TestArray.exe
+C:\Users\farid\Documents\GitHub\Farid Afradi\HelloWorld\TestArray\TestArray\bin\Debug\TestArray.pdb
+C:\Users\farid\Documents\GitHub\Farid Afradi\HelloWorld\TestArray\TestArray\obj\Debug\TestArray.csproj.AssemblyReference.cache
+C:\Users\farid\Documents\GitHub\Farid Afradi\HelloWorld\TestArray\TestArray\obj\Debug\TestArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\farid\Documents\GitHub\Farid Afradi\HelloWorld\TestArray\TestArray\obj\Debug\TestArray.csproj.CoreCompileInputs.cache
+C:\Users\farid\Documents\GitHub\Farid Afradi\HelloWorld\TestArray\TestArray\obj\Debug\TestArray.exe
+C:\Users\farid\Documents\GitHub\Farid Afradi\HelloWorld\TestArray\TestArray\obj\Debug\TestArray.pdb
